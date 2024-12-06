@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "1af9bdd35324e918",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "586ec74af3e45e9f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4d56c7c50639b0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -146,13 +148,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "92fa2899b5292612",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "92a95e2ea175830b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,9 +183,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "1e4d56c7c50639b0",
-  "lastOpenFiles": []
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Untitled Kanban.md"
+  ]
 }
