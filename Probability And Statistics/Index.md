@@ -1,0 +1,2 @@
+## Statistics
+[[Introduction to Statistics]]

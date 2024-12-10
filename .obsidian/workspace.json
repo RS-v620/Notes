@@ -4,22 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e04b345a9ce302e1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7f70744c1fe0c345",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Probability And Statistics/Introduction to Statistics.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Introduction to Statistics"
+            }
+          },
+          {
+            "id": "6b2ff08f9163ac94",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Study.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Study"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +214,51 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6b2ff08f9163ac94",
   "lastOpenFiles": [
-    "Untitled Kanban.md"
+    "Operating Systems/What is an OS, OS Functions.md",
+    "Operating Systems/System Calls.md",
+    "Operating Systems/Swapping.md",
+    "Operating Systems/Scheduling Criteria.md",
+    "Operating Systems/Scheduling Algorithms.md",
+    "Operating Systems/Resource Allocation Graphs.md",
+    "Operating Systems/Process Scheduling.md",
+    "Operating Systems/OS Services.md",
+    "Operating Systems/Operations on Processes.md",
+    "Operating Systems/Memory Management without Swapping.md",
+    "Operating Systems/Logical vs Physical Address Space.md",
+    "Operating Systems/Introduction to Processes - Concept of Process.md",
+    "Operating Systems/Introduction to Deadlocks.md",
+    "Operating Systems/Inter Process Communication.md",
+    "Operating Systems/Home.md",
+    "Operating Systems/General Structure of Operating System.md",
+    "Operating Systems/Different Types of OS.md",
+    "Operating Systems/Deadlock Prevention.md",
+    "Operating Systems/Deadlock Detection and Recovery.md",
+    "Operating Systems/Deadlock Avoidance.md",
+    "Operating Systems/CPU Scheduling.md",
+    "Operating Systems/Contiguous Memory Allocation.md",
+    "Operating Systems/Conditions for deadlock.md",
+    "Operating Systems/Circuit Switching & Packet Switching.md",
+    "Operating Systems/Background.md",
+    "Operating Systems",
+    "New folder",
+    "Definitions/Half-Adder and Full-Adder.md",
+    "Definitions",
+    "Attachments/Pasted image 20231214201455.png",
+    "Attachments/Pasted image 20231214200839.png",
+    "Attachments/Pasted image 20231214194056.png",
+    "Attachments/Pasted image 20231214192329.png",
+    "Attachments/Recording 20231006213702.webm",
+    "Attachments/Pasted image 20231214191635.png",
+    "Attachments/Pasted image 20231214190947.png",
+    "Attachments/Pasted image 20231214183225.png",
+    "Attachments/Pasted image 20231213085905.png",
+    "Attachments/Pasted image 20231213085340.png",
+    "Attachments/Pasted image 20231213005557.png",
+    "Attachments/Arm System-On-Chip Architecture.pdf",
+    "Computer Architecture and Organization(CAO)",
+    "Attachments",
+    "Probability And Statistics"
   ]
 }
