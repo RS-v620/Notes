@@ -4,46 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e04b345a9ce302e1",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7f70744c1fe0c345",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Probability And Statistics/Introduction to Statistics.md",
-                "mode": "source",
-                "source": false
+                "file": "Cheat Sheets/SQL_for_Data_Science.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to Statistics"
-            }
-          },
-          {
-            "id": "6b2ff08f9163ac94",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Study.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Study"
+              "icon": "lucide-file-text",
+              "title": "SQL_for_Data_Science"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e9ac419239d46a1",
@@ -158,9 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Cheat Sheets/SQL_for_Data_Science.pdf"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SQL_for_Data_Science"
             }
           },
           {
@@ -198,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +194,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b2ff08f9163ac94",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf",
+    "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf.crdownload",
+    "Cheat Sheets/Joining_Data_in_SQL_2.pdf",
+    "Cheat Sheets/Joining_Data_in_SQL_2.pdf.crdownload",
+    "Cheat Sheets/MySQL_Cheat_Sheet.pdf",
+    "Cheat Sheets/MySQL_Cheat_Sheet.pdf.crdownload",
+    "Cheat Sheets/SQL_Window_Functions_1_1.pdf",
+    "Cheat Sheets/SQL_Window_Functions_1_1.pdf.crdownload",
+    "Study.md",
+    "Operating Systems/Home.md",
+    "Cheat Sheets/Unsupervised_Machine_Learning_Models.pdf",
+    "Cheat Sheets/Supervised_Machine_Learning_Models.pdf",
+    "Cheat Sheets/SQL_for_Data_Science.pdf",
     "Operating Systems/What is an OS, OS Functions.md",
     "Operating Systems/System Calls.md",
     "Operating Systems/Swapping.md",
@@ -230,7 +223,6 @@
     "Operating Systems/Introduction to Processes - Concept of Process.md",
     "Operating Systems/Introduction to Deadlocks.md",
     "Operating Systems/Inter Process Communication.md",
-    "Operating Systems/Home.md",
     "Operating Systems/General Structure of Operating System.md",
     "Operating Systems/Different Types of OS.md",
     "Operating Systems/Deadlock Prevention.md",
@@ -240,25 +232,15 @@
     "Operating Systems/Contiguous Memory Allocation.md",
     "Operating Systems/Conditions for deadlock.md",
     "Operating Systems/Circuit Switching & Packet Switching.md",
-    "Operating Systems/Background.md",
-    "Operating Systems",
-    "New folder",
-    "Definitions/Half-Adder and Full-Adder.md",
-    "Definitions",
     "Attachments/Pasted image 20231214201455.png",
     "Attachments/Pasted image 20231214200839.png",
     "Attachments/Pasted image 20231214194056.png",
     "Attachments/Pasted image 20231214192329.png",
-    "Attachments/Recording 20231006213702.webm",
     "Attachments/Pasted image 20231214191635.png",
     "Attachments/Pasted image 20231214190947.png",
     "Attachments/Pasted image 20231214183225.png",
     "Attachments/Pasted image 20231213085905.png",
     "Attachments/Pasted image 20231213085340.png",
-    "Attachments/Pasted image 20231213005557.png",
-    "Attachments/Arm System-On-Chip Architecture.pdf",
-    "Computer Architecture and Organization(CAO)",
-    "Attachments",
-    "Probability And Statistics"
+    "Attachments/Pasted image 20231213005557.png"
   ]
 }
