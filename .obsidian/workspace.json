@@ -8,15 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4beba86efe310e55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Cheat Sheets/SQL_for_Data_Science.pdf"
+                "file": "Study.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "SQL_for_Data_Science"
+              "icon": "lucide-trello",
+              "title": "Study"
             }
           }
         ]
@@ -50,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,12 +80,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8e9ac419239d46a1",
@@ -136,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/SQL_for_Data_Science.pdf"
+                "file": "Probability And Statistics/Elements of Probability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL_for_Data_Science"
+              "title": "Outline of Elements of Probability"
             }
           },
           {
@@ -194,8 +203,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4beba86efe310e55",
   "lastOpenFiles": [
+    "Probability And Statistics/Probability Axioms.md",
+    "Probability And Statistics/Elements of Probability.md",
+    "Probability And Statistics/Untitled.md",
+    "Probability And Statistics/Introduction to Statistics.md",
+    "Study.md",
+    "Probability And Statistics/Index.md",
+    "Operating Systems/Home.md",
+    "Operating Systems/Paging.md",
+    "Cheat Sheets/SQL_for_Data_Science.pdf",
     "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf",
     "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf.crdownload",
     "Cheat Sheets/Joining_Data_in_SQL_2.pdf",
@@ -204,11 +222,7 @@
     "Cheat Sheets/MySQL_Cheat_Sheet.pdf.crdownload",
     "Cheat Sheets/SQL_Window_Functions_1_1.pdf",
     "Cheat Sheets/SQL_Window_Functions_1_1.pdf.crdownload",
-    "Study.md",
-    "Operating Systems/Home.md",
     "Cheat Sheets/Unsupervised_Machine_Learning_Models.pdf",
-    "Cheat Sheets/Supervised_Machine_Learning_Models.pdf",
-    "Cheat Sheets/SQL_for_Data_Science.pdf",
     "Operating Systems/What is an OS, OS Functions.md",
     "Operating Systems/System Calls.md",
     "Operating Systems/Swapping.md",
@@ -227,11 +241,6 @@
     "Operating Systems/Different Types of OS.md",
     "Operating Systems/Deadlock Prevention.md",
     "Operating Systems/Deadlock Detection and Recovery.md",
-    "Operating Systems/Deadlock Avoidance.md",
-    "Operating Systems/CPU Scheduling.md",
-    "Operating Systems/Contiguous Memory Allocation.md",
-    "Operating Systems/Conditions for deadlock.md",
-    "Operating Systems/Circuit Switching & Packet Switching.md",
     "Attachments/Pasted image 20231214201455.png",
     "Attachments/Pasted image 20231214200839.png",
     "Attachments/Pasted image 20231214194056.png",

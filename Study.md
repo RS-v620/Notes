@@ -7,10 +7,10 @@ kanban-plugin: board
 ## Week 1
 
 - [ ] <mark style="background: #FF5582A6;">11th Dec  :</mark>
-	- [ ] Counting
-	- [ ] Probability Axioms
-	- [ ] Sample Space
-	- [ ] Events
+	- [x] Counting
+	- [x] [[Probability Axioms]]
+	- [x] Sample Space
+	- [x] Events
 - [ ] 12th December :
 	- [ ] Independent and Mutually exclusive events
 	- [ ] Marginal Probability
