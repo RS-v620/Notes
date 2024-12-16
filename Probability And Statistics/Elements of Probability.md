@@ -44,5 +44,5 @@ A set of events is called mutually exclusive if occurrence of one of the events 
 #exhaustiveEvents
 If a set of events $E_1, E_2, ..., E_n$ completely cover up the entire [[Elements of Probability#Sample Space and Events | sample space]] , i.e. $$E_1 \cup E_2 \cup ... \cup E_n = S$$
 #### Mutually Exclusive and Exhaustive Events
-A set of event is said to be mutually exclusive if they are both exclusive and exhustive at the same time
+A set of event is said to be mutually exclusive if they are both exclusive and exhaustive at the same time
 
