@@ -12,11 +12,11 @@ kanban-plugin: board
 	- [x] Sample Space
 	- [x] Events
 - [ ] 12th December :
-	- [ ] Independent and Mutually exclusive events
+	- [x] Independent and Mutually exclusive events
 	- [ ] Marginal Probability
-	- [ ] Conditional Probability
+	- [x] Conditional Probability
 	- [ ] Joint Probability
-	- [ ] Bayes Theorem
+	- [x] Bayes Theorem
 - [ ] 13th December :
 	- [ ] Conditional Expectation and Variance
 	- [ ] Mean, Median, Mode

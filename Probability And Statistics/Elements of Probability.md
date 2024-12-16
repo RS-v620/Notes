@@ -11,9 +11,10 @@ In the subjective interpretation, the probability of an outcome is not thought o
 There is a general consensus that the mathematics of probability remains the same in either interpretation
 
 # Sample Space and Events
-#sample_space #event
+#sampleSpace #event
 In an experiment where all possible outcomes are known in advance, this set of of all possible outcomes is known as the **sample space** of the experiment and is denoted by $S$.
 Any subset $E$ of $S$ is known as an **event**. That is an event is consisting of possible outcomes of the experiment. If the outcome of the experiment is contained in $E$, then we say that *event* $E$ has occurred.
+
 
 ### Common notations and associations :
 #union #intersection 
@@ -22,3 +23,26 @@ We define $$E \;\bigcup \;F$$ as the event  consisting of all outcomes that are 
 
 Similarly, $$EF$$ is defined as the *intersection* of $E$ and $F$, consisting of all outcomes common in $E$ and $F$.
 If $EF = \emptyset$ 
+
+# Types of Events
+#### Elementary Event
+#simpleEvent #elementaryEvent
+An event having only a single sample point is called an **elementary** or **simple** event.
+
+#### Equally Likely Event
+#equallyLikelyEvent
+For a group of events, they are said to be equally likely if their occurrence has no preference.
+
+#### Independent Event
+#independentEvents 
+If occurrence of one event doesn't effect, or cause the occurrence of another event, they are said to be independent events.
+
+#### Mutually Exclusive Events
+#mutuallyExclusiveEvents
+A set of events is called mutually exclusive if occurrence of one of the events precludes(make impossible) the occurrence of any other events in the set. Suppose $E_1, E_2, ... , E_n$ are mutually-exclusive events, then : $$ E_1 \cap E_2 \cap \; ... \; \cap E_n = \emptyset $$
+#### Exhaustive Events
+#exhaustiveEvents
+If a set of events $E_1, E_2, ..., E_n$ completely cover up the entire [[Elements of Probability#Sample Space and Events | sample space]] , i.e. $$E_1 \cup E_2 \cup ... \cup E_n = S$$
+#### Mutually Exclusive and Exhaustive Events
+A set of event is said to be mutually exclusive if they are both exclusive and exhustive at the same time
+

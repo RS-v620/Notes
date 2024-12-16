@@ -8,24 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4beba86efe310e55",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Study.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Probability And Statistics/Elements of Probability.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Study"
+              "icon": "lucide-file",
+              "title": "Elements of Probability"
             }
           }
         ]
@@ -59,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#event",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,12 +174,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,16 +191,18 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "4beba86efe310e55",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Probability And Statistics/Probability Axioms.md",
+    "Study.md",
+    "Tldraw 2024-12-15 10.53AM.md",
     "Probability And Statistics/Elements of Probability.md",
+    "Probability And Statistics/Probability Axioms.md",
     "Probability And Statistics/Untitled.md",
     "Probability And Statistics/Introduction to Statistics.md",
-    "Study.md",
     "Probability And Statistics/Index.md",
     "Operating Systems/Home.md",
     "Operating Systems/Paging.md",
@@ -240,7 +233,6 @@
     "Operating Systems/General Structure of Operating System.md",
     "Operating Systems/Different Types of OS.md",
     "Operating Systems/Deadlock Prevention.md",
-    "Operating Systems/Deadlock Detection and Recovery.md",
     "Attachments/Pasted image 20231214201455.png",
     "Attachments/Pasted image 20231214200839.png",
     "Attachments/Pasted image 20231214194056.png",
