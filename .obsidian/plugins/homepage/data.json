@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Study",
+      "value": "Data-Structures and Algorithms/Home - Data Structures and Algorithms",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",

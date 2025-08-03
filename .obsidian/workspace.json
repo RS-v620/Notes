@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability And Statistics/Elements of Probability.md",
+                "file": "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elements of Probability"
+              "title": "Home - Data Structures and Algorithms"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e9ac419239d46a1",
@@ -137,10 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability And Statistics/Elements of Probability.md"
+                "file": "Achievements at Work.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elements of Probability"
+              "title": "Outline of Achievements at Work"
             }
           },
           {
@@ -159,8 +164,8 @@
             "state": {
               "type": "Strange New Worlds",
               "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -172,13 +177,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7f37e83f3b1033ef",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "edf6ff7a2ee53680",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,23 +214,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "workspaces:Manage workspace layouts": false,
       "homepage:Open homepage": false,
       "tldraw:Create new tldrawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
+    "Tools for Basic Product.md",
+    "7th Semester Subjects.md",
+    "Chaskiq.io.md",
     "Study.md",
-    "Tldraw 2024-12-15 10.53AM.md",
+    "Achievements at Work.md",
+    "Untitled 1.canvas",
+    "Data-Structures and Algorithms/Data Structures.md",
+    "Untitled 2.canvas",
+    "Data-Structures and Algorithms/Quick Sort.md",
+    "Untitled.canvas",
+    "Data-Mapper/Charts.md",
+    "Operating Systems/Different Types of OS.md",
+    "Operating Systems/What is an OS, OS Functions.md",
+    "Operating Systems/Home.md",
+    "Data-Mapper/Sun.md",
+    "Data-Mapper",
+    "Attachments/{8415B873-52AA-478B-A0FA-49F2CA66AFF8}.png",
+    "Attachments/{14D01151-1DC9-4CC5-B767-5198110ACA78}.png",
+    "Attachments/{95BD455E-62E8-4E15-BEAC-3F94BF6838BA}.png",
+    "Attachments/{60556E22-393C-463A-AA27-8DDB1C2AE889}.png",
+    "Attachments/{12036631-148F-4C5A-8505-466E7EC49495}.png",
+    "Attachments/{3AA23448-5FCF-4A4D-8539-50B975EB671E}.png",
+    "Data-Structures and Algorithms/Insertion Sort.md",
+    "Data-Structures and Algorithms/Selection Sort.md",
+    "Data-Structures and Algorithms/Bubble Sort.md",
+    "Data-Structures and Algorithms/Merge Sort.md",
+    "Data-Structures and Algorithms",
+    "Operating Systems/Conditions for deadlock.md",
+    "Operating Systems/Introduction to Deadlocks.md",
     "Probability And Statistics/Elements of Probability.md",
+    "Tldraw 2024-12-15 10.53AM.md",
     "Probability And Statistics/Probability Axioms.md",
     "Probability And Statistics/Untitled.md",
     "Probability And Statistics/Introduction to Statistics.md",
     "Probability And Statistics/Index.md",
-    "Operating Systems/Home.md",
     "Operating Systems/Paging.md",
     "Cheat Sheets/SQL_for_Data_Science.pdf",
     "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf",
@@ -214,34 +268,9 @@
     "Cheat Sheets/MySQL_Cheat_Sheet.pdf",
     "Cheat Sheets/MySQL_Cheat_Sheet.pdf.crdownload",
     "Cheat Sheets/SQL_Window_Functions_1_1.pdf",
-    "Cheat Sheets/SQL_Window_Functions_1_1.pdf.crdownload",
-    "Cheat Sheets/Unsupervised_Machine_Learning_Models.pdf",
-    "Operating Systems/What is an OS, OS Functions.md",
-    "Operating Systems/System Calls.md",
-    "Operating Systems/Swapping.md",
-    "Operating Systems/Scheduling Criteria.md",
-    "Operating Systems/Scheduling Algorithms.md",
-    "Operating Systems/Resource Allocation Graphs.md",
-    "Operating Systems/Process Scheduling.md",
-    "Operating Systems/OS Services.md",
-    "Operating Systems/Operations on Processes.md",
-    "Operating Systems/Memory Management without Swapping.md",
-    "Operating Systems/Logical vs Physical Address Space.md",
-    "Operating Systems/Introduction to Processes - Concept of Process.md",
-    "Operating Systems/Introduction to Deadlocks.md",
-    "Operating Systems/Inter Process Communication.md",
-    "Operating Systems/General Structure of Operating System.md",
-    "Operating Systems/Different Types of OS.md",
-    "Operating Systems/Deadlock Prevention.md",
     "Attachments/Pasted image 20231214201455.png",
     "Attachments/Pasted image 20231214200839.png",
     "Attachments/Pasted image 20231214194056.png",
-    "Attachments/Pasted image 20231214192329.png",
-    "Attachments/Pasted image 20231214191635.png",
-    "Attachments/Pasted image 20231214190947.png",
-    "Attachments/Pasted image 20231214183225.png",
-    "Attachments/Pasted image 20231213085905.png",
-    "Attachments/Pasted image 20231213085340.png",
-    "Attachments/Pasted image 20231213005557.png"
+    "Attachments/Pasted image 20231214192329.png"
   ]
 }
