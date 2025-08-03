@@ -1,0 +1,1 @@
+Gathers and standardizes data from all external sources. This includes APIs for crime statistics, public event feeds (OSI), user-submitted reports, and map data providers (e.g., OpenStreetMap, Google Places).

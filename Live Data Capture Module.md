@@ -1,0 +1,1 @@
+Responsible for recording and streaming audio and video during a distress event. It must be optimized to stream data in real-time to the Cloud Storage Module.

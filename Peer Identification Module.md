@@ -1,0 +1,1 @@
+Upon a distress signal, this module identifies other nearby app users ("heroes") using their location data and broadcasts a request for help to them by communicating with [[Communication & Notification Module]]

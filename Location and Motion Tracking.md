@@ -1,0 +1,1 @@
+- Continuously monitors the user's GPS location, pace (walking, running, stationary), and motion changes using the phone's accelerometer and gyroscope.

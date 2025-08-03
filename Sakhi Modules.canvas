@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"ead3500c1ffc05bd","type":"text","text":"Core Backend & Data Modules","x":-440,"y":-320,"width":1160,"height":560,"color":"3"},
+		{"id":"c2640c65a9fd58aa","type":"text","text":"[[Data Ingestions and Processing]]","x":-410,"y":-230,"width":210,"height":110},
+		{"id":"be1d4cde2056a8d5","type":"text","text":"[[Risk Assessment Engine]]","x":-407,"y":-100,"width":207,"height":120},
+		{"id":"c2b0748bd3aa0e15","type":"text","text":"Client Side Modules","x":-440,"y":260,"width":780,"height":480,"color":"4"},
+		{"id":"ef8c6046669e5fb5","type":"text","text":"[[Location and Motion Tracking]]","x":-410,"y":360,"width":250,"height":60},
+		{"id":"ba2a9d47c6864592","type":"text","text":"[[Environmental Sensor Module]]","x":-407,"y":470,"width":250,"height":60},
+		{"id":"480c19030d08def2","type":"text","text":"[[Live Data Capture Module]]","x":-407,"y":600,"width":250,"height":60},
+		{"id":"26350d5971456f69","x":280,"y":-230,"width":250,"height":110,"type":"text","text":"[[Trigger & Alert Management Module]]"},
+		{"id":"22963ef1decd14fb","x":280,"y":-100,"width":250,"height":120,"type":"text","text":"[[Communication & Notification Module]]"},
+		{"id":"4e19cb6769760a4a","type":"text","text":"[[User Profiles and History]]","x":-407,"y":50,"width":210,"height":130},
+		{"id":"6d1a9a515f4066bc","type":"text","text":"[[Threat Intelligence Module]]","x":-110,"y":-230,"width":250,"height":110},
+		{"id":"36f6f28cd551ef3c","type":"text","text":"[[Cloud Storage & Retrieval Module]]","x":-110,"y":-100,"width":250,"height":120},
+		{"id":"ad9a3b70a18fbc53","type":"text","text":"[[Navigation & Routing Module]]","x":-110,"y":60,"width":250,"height":120},
+		{"id":"73564dcd8d164320","x":280,"y":60,"width":250,"height":60,"type":"text","text":"[[Peer Identification Module]]"},
+		{"id":"7cbd783838a0e49d","x":280,"y":150,"width":250,"height":60,"type":"text","text":"[[Incident Response & Reporting Module]]"},
+		{"id":"4299ff2bff3512d8","type":"text","text":"[[UI & Navigation Module]]","x":-50,"y":470,"width":250,"height":60},
+		{"id":"7ad0a3c4aeeb778d","x":-50,"y":360,"width":250,"height":60,"type":"text","text":"[[Mobile Communication Module]]"}
+	],
+	"edges":[]
+}

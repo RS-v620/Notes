@@ -1,0 +1,1 @@
+A secure and robust system for storing sensitive data like audio/video recordings from distress events, incident reports, and user route history. It must have controlled access for data recovery.
