@@ -51,3 +51,41 @@
 5. Environmental cues:
 	1. Sudden path deviation:
 		1. Prediction of path
+		2. Recall from recent history
+			1. storing the recent history
+	2. Flashlight use on phone
+	3. Headphone usage in yellow to red areas
+	4. Pace changes
+		1. Pace monitoring
+6. Guardian receives reports :
+	1. Path taken
+	2. Zones crossed
+7. 2 way audio - audio call
+	1. Audio call feature on
+8. Broadcast to nearby Sakhi users/ heroes
+
+## Post Distress
+
+1. AI - Assisted Incident Summary with timestamps, in report format
+2. Audio + Video Recording needs to go to Cloud which is later recovered
+3. Provide nearest police station locations, women help centers (inform them as well), verified support groups(Need to register them since private)
+4. 24-48 hours later check-in for mental health support, peer connection or follow-up reporting
+5. Repeat offender tracking
+
+|Data Point|What It Enables|
+|---|---|
+|Time of day|Dynamic risk score adjustment (night = higher risk)|
+|Day of week|Weekend vs weekday incident patterns|
+|Motion trail|Detect stops, pace changes, hesitation in walking|
+|User route history|Alert on deviation from known safe patterns|
+|Companion status|Alerts for solo travelers in red zones|
+|Flashlight activation|Contextual cue of discomfort or panic|
+|Headphone plugged-in|Vulnerability cue for awareness alerts|
+|Nearby BLE devices|Follower/tracker detection|
+|Nearby businesses (Google Places)|Routing toward populated, lit areas|
+|Event-based feeds|Awareness of riots, rallies, large crowd gatherings|
+|Census/SECC data|Identification of socio-economic red zones|
+|Nightlight satellite data|Real-time darkness detection|
+|OpenStreetMap tags|Area type classification: alley, slum, field, residential|
+
+
