@@ -1,1 +1,0 @@
-Monitors the state of the phone itself, detecting contextual cues like **flashlight activation**, **headphone status**, and nearby **Bluetooth (BLE) devices** to identify potential trackers or followers.

@@ -1,1 +1,0 @@
-An analytical module that processes aggregated and anonymized incident data to identify crime hotspots, repeat offender patterns (based on report descriptions), and emerging threats.

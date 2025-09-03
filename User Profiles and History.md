@@ -1,1 +1,0 @@
-Manages all user-specific data, including personal details (age), saved routes, trusted contacts (guardians), and device information. It's responsible for storing route histories to detect deviations.

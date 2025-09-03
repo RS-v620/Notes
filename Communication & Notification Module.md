@@ -1,3 +1,0 @@
-Manages all outgoing communications. It integrates with third-party services like WhatsApp and SMS gateways to send alerts to guardians. It also handles push notifications for system alerts (e.g., "You are entering a red zone").
-
-- **Resource Locator:** Connects to a verified database to provide the user with contact information and locations for the nearest police stations, hospitals, and support centers.

@@ -1,1 +1,0 @@
-Handles the communication with the server for GPS, trigger, recordings and maintaining WS.

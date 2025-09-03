@@ -1,1 +1,0 @@
-Manages the user interface, including displaying the dynamic safety map, rendering the safest routes calculated by the backend, and handling all user inputs like reporting an unsafe area or triggering an SOS.

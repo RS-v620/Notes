@@ -1,1 +1,0 @@
-A crucial AI/ML module that uses data from the ingestion module to calculate a dynamic risk score for different geographical areas. It considers factors like time of day, historical crime, lighting, area type, and real-time events to create and constantly update the safety map.

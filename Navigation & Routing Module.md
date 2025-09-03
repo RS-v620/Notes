@@ -1,1 +1,0 @@
-Calculates the safest path for a user by using a weighted pathfinding algorithm (like A* or Dijkstra's) where the "weight" is the risk score from the Risk Assessment Engine. It also handles **route deviation alerts**.
