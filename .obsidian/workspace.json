@@ -207,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
     "Sakhi Modules.canvas",
     "Mobile Communication Module.md",
     "Incident Response & Reporting Module.md",
@@ -238,7 +240,6 @@
     "User Profiles and History.md",
     "Risk Assessment Engine.md",
     "Data Ingestions and Processing.md",
-    "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
     "Tools for Basic Product.md",
     "7th Semester Subjects.md",
     "Chaskiq.io.md",
