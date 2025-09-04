@@ -11,14 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Study.md",
-                "mode": "source",
-                "source": false
+                "file": "Experiment - 1.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Study"
+              "icon": "lucide-trello",
+              "title": "Experiment - 1"
             }
           }
         ]
@@ -223,9 +225,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Achievements at Work.md",
-    "7th Semester Subjects.md",
     "Study.md",
+    "Achievements at Work.md",
+    "Experiment - 1.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "7th Semester Subjects.md",
     "User Profiles and History.md",
     "UI & Navigation Module.md",
     "Trigger & Alert Management Module.md",
@@ -249,8 +254,6 @@
     "Data-Structures and Algorithms/Data Structures.md",
     "Untitled 2.canvas",
     "Data-Structures and Algorithms/Quick Sort.md",
-    "Data-Mapper/Charts.md",
-    "Operating Systems/Different Types of OS.md",
     "Data-Mapper",
     "Attachments/{8415B873-52AA-478B-A0FA-49F2CA66AFF8}.png",
     "Attachments/{14D01151-1DC9-4CC5-B767-5198110ACA78}.png",
