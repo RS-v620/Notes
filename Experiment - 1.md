@@ -7,8 +7,8 @@ kanban-plugin: board
 ## Week 1 (Sep 3 – Sep 9)
 
 - [ ] <mark style="background: #FF5582A6;">Foundations:</mark>
-	- [ ] Python OOP refresh (classes, inheritance, exceptions)
-	- [ ] Unit testing basics (pytest)
+	- [x] Python OOP refresh (classes, inheritance, exceptions)
+	- [x] Unit testing basics (pytest)
 	- [ ] Git workflows (branch, PR, merge)
 - [ ] Databases:
 	- [ ] SQL joins & indexes
