@@ -11,16 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Experiment - 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Experiment - 1"
+              "icon": "lucide-file",
+              "title": "Home - Data Structures and Algorithms"
             }
           }
         ]
@@ -225,9 +223,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Experiment - 1.md",
     "Study.md",
     "Achievements at Work.md",
-    "Experiment - 1.md",
     "Untitled.md",
     "Untitled 1.md",
     "7th Semester Subjects.md",

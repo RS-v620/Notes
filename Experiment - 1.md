@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] <mark style="background: #FF5582A6;">Foundations:</mark>
 	- [x] Python OOP refresh (classes, inheritance, exceptions)
 	- [x] Unit testing basics (pytest)
-	- [ ] Git workflows (branch, PR, merge)
+	- [x] Git workflows (branch, PR, merge)
 - [ ] Databases:
 	- [ ] SQL joins & indexes
 	- [ ] Write 10 sample queries on Postgres
