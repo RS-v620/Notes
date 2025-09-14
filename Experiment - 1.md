@@ -17,8 +17,8 @@ kanban-plugin: board
 	- [ ] Arrays & Strings (5 easy problems)
 	- [ ] Linked Lists (2 problems)
 - [ ] Project Setup:
-	- [ ] Define **Network Management System** architecture
-	- [ ] Initialize repo + base API in FastAPI
+	- [x] Define **Network Management System** architecture
+	- [x] Initialize repo + base API in FastAPI
 
 
 ## Week 2 (Sep 10 – Sep 16)
@@ -31,7 +31,7 @@ kanban-plugin: board
 	- [ ] Stacks & Queues (3 problems)
 - [ ] Project 1 – NMS:
 	- [ ] Device registry schema
-	- [ ] CRUD endpoints for devices
+	- [x] CRUD endpoints for devices
 	- [ ] Auth with JWT
 
 
