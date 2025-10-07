@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Home - Data Structures and Algorithms"
             }
-          },
-          {
-            "id": "aa1cd51c0c741fee",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +221,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "aa1cd51c0c741fee",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
     "Experiment - 1.md",
