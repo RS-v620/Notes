@@ -35,8 +35,7 @@
               "title": "Video Processing Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,13 +236,16 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c6499706dd48abc3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ink/Drawing/2025.11.2 - 20.29pm.drawing",
+    "Ink/Drawing",
+    "Ink/Writing/2025.11.2 - 20.24pm.writing",
+    "Data-Structures and Algorithms/Video Processing Notes.md",
     "Ink/Writing/2025.11.2 - 17.56pm.writing",
     "Ink/Writing",
     "Ink",
     "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
-    "Data-Structures and Algorithms/Video Processing Notes.md",
     "Experiment - 1.md",
     "Study.md",
     "Achievements at Work.md",
@@ -281,9 +283,6 @@
     "Cheat Sheets/SQL_for_Data_Science.pdf",
     "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf",
     "Cheat Sheets/PostgreSQL_Cheat_Sheet.pdf.crdownload",
-    "Cheat Sheets/Joining_Data_in_SQL_2.pdf",
-    "Cheat Sheets/Joining_Data_in_SQL_2.pdf.crdownload",
-    "Cheat Sheets/MySQL_Cheat_Sheet.pdf",
     "Attachments/Pasted image 20231214201455.png",
     "Attachments/Pasted image 20231214200839.png",
     "Attachments/Pasted image 20231214194056.png",
