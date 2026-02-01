@@ -1,7 +1,7 @@
 1. **Concurrency model**
 	- [x] What is concurrency
-    - [ ]  sync vs async
-    - [ ]  threads vs processes 
+    - [x]  sync vs async
+    - [x]  threads vs processes 
     - [ ] where the GIL bites you
     - [x] Issues with Concurrency
         

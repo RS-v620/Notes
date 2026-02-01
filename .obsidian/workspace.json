@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/WEEK 1.md",
+                "file": "Operating Systems/Introduction to Processes - Concept of Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEEK 1"
+              "title": "Introduction to Processes - Concept of Process"
             }
           }
         ]
@@ -223,8 +223,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Career/Semester worth of Backend Prep.md",
+    "Operating Systems/Home.md",
+    "Operating Systems/Deadlock Avoidance.md",
+    "Operating Systems/CPU Scheduling.md",
+    "Operating Systems/Contiguous Memory Allocation.md",
+    "Operating Systems/Conditions for deadlock.md",
+    "Operating Systems/Background.md",
+    "Operating Systems/Circuit Switching & Packet Switching.md",
     "Career/WEEK 1.md",
+    "Career/Semester worth of Backend Prep.md",
     "Data-Structures and Algorithms/Home - Data Structures and Algorithms.md",
     "Probability And Statistics/Study.md",
     "Ink/Writing/2025.11.2 - 20.24pm.writing",
@@ -250,13 +257,6 @@
     "Incident Response & Reporting Module.md",
     "Data Ingestions and Processing.md",
     "Communication & Notification Module.md",
-    "Cloud Storage & Retrieval Module.md",
-    "Environmental Sensor Module.md",
-    "Live Data Capture Module.md",
-    "Location and Motion Tracking.md",
-    "Mobile Communication Module.md",
-    "Navigation & Routing Module.md",
-    "Risk Assessment Engine.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Data-Mapper",
