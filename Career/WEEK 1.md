@@ -2,7 +2,7 @@
 	- [x] What is concurrency
     - [x]  sync vs async
     - [x]  threads vs processes 
-    - [ ] where the GIL bites you
+    - [x] where the GIL bites you
     - [x] Issues with Concurrency
         
 2. **Async I/O**
