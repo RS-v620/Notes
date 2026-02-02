@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Introduction to Processes - Concept of Process.md",
+                "file": "Career/WEEK 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Processes - Concept of Process"
+              "title": "WEEK 1"
             }
           }
         ]
@@ -223,6 +223,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Operating Systems/Introduction to Processes - Concept of Process.md",
     "Operating Systems/Home.md",
     "Operating Systems/Deadlock Avoidance.md",
     "Operating Systems/CPU Scheduling.md",
@@ -256,7 +257,6 @@
     "Sakhi Modules.canvas",
     "Incident Response & Reporting Module.md",
     "Data Ingestions and Processing.md",
-    "Communication & Notification Module.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Data-Mapper",
