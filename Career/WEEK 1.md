@@ -6,7 +6,7 @@
     - [x] Issues with Concurrency
         
 2. **Async I/O**
-    - [ ] `asyncio` event loop
+    - [x] `asyncio` event loop
     - [ ]  `await` costs
     - [ ]  blocking calls inside async (the silent killer)
         
