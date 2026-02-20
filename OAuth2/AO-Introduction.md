@@ -1,0 +1,4 @@
+#web #oauth2 
+To request an access token, the client obtains authorization from the resource owner. The authorization is expressed in the form of an authorization grant, which the client uses to request the access token. OAuth defines four grant types: authorization code, implicit, resource owner password credentials, and client credentials. It also provides an extension mechanism for defining additional grant types.
+
+Next -> [[Authorization Code Grant]]
