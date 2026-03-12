@@ -1,3 +1,8 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+---
 #GRANITE
 
 **Name** : **GRANITE**
@@ -8,5 +13,7 @@ Available Alternative :  **QUARRY**( _Quantitative Unified Analysis of Rock & Re
 GRANITE is a system that monitors the mine-load in crushers, trucks and identifies oversized rocks, clogged crushers and provides comprehensive analysis of the system.
 
 _to be filled in_
+
+
 
 
