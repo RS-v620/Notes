@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/JSON-RPC 2.0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JSON-RPC 2.0"
+              "title": "New tab"
             }
           }
         ]
@@ -223,9 +219,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data-Structures and Algorithms/Dutch National Flag Algorithm.md",
     "Career/WEEK 1.md",
     "Definitions/JSON-RPC 2.0.md",
-    "Data-Structures and Algorithms/Dutch National Flag Algorithm.md",
     "Data-Structures and Algorithms/Hashing.md",
     "Definitions/Hash Function.md",
     "Career/Semester worth of Backend Prep.md",
