@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Career/WEEK 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "WEEK 1"
             }
           }
         ]
@@ -219,8 +223,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Data-Structures and Algorithms/Dutch National Flag Algorithm.md",
     "Career/WEEK 1.md",
+    "Data-Structures and Algorithms/Dutch National Flag Algorithm.md",
     "Definitions/JSON-RPC 2.0.md",
     "Data-Structures and Algorithms/Hashing.md",
     "Definitions/Hash Function.md",
