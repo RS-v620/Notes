@@ -5,7 +5,10 @@
 Functions of two or more variables, continuity, directional derivatives, partial derivatives, total derivative, maxima and minima, saddle point, and method of Lagrange’s multipliers. Double and Triple integrals and their applications to area, volume, and surface area; Vector Calculus: gradient, divergence, and curl, Line integrals and Surface integrals, Green’s theorem, Stokes’ theorem, and Gauss divergence theorem.
 
 ### Linear Algebra
-Finite-dimensional vector spaces over real or complex fields; Linear transformations and their matrix representations, rank and nullity; systems of linear equations, characteristic polynomial, eigenvalues and eigenvectors, diagonalization, minimal polynomial. Cayley-Hamilton Theorem, Finite-dimensional inner product spaces, Gram-Schmidt orthonormalization process, symmetric, skew-symmetric, Hermitian, skew-Hermitian, normal, orthogonal, and unitary matrices; diagonalization by a unitary matrix, Jordan canonical form; bilinear and quadratic forms.
+Finite-dimensional vector spaces over real or complex fields; 
+Linear transformations and their matrix representations, rank and nullity; 
+Systems of linear equations, characteristic polynomial, eigenvalues and eigenvectors, diagonalization, minimal polynomial. Cayley-Hamilton Theorem, Finite-dimensional inner product spaces, Gram-Schmidt orthonormalization process, symmetric, skew-symmetric, Hermitian, skew-Hermitian, normal, orthogonal, and unitary matrices; 
+Diagonalization by a unitary matrix, Jordan canonical form; bilinear and quadratic forms.
 
 ### Real Analysis
 Metric spaces, connectedness, compactness, completeness; Sequences and series of functions, uniform convergence, Ascoli-Arzela theorem; Weierstrass approximation theorem; contraction mapping principle, Power series. Differentiation of functions of several variables, Inverse and Implicit function theorems; Lebesgue measure on the real line, measurable functions; Lebesgue integral, Fatou’s lemma, monotone convergence theorem, dominated convergence theorem.
