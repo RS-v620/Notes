@@ -7,7 +7,7 @@
 ###  Sequence Diagram
 ```mermaid
 sequenceDiagram
-    participant VP as Vision Pipeline
+	participant VP as Vision Pipeline
     participant API as FastAPI Backend
     participant DB as MySQL
     participant FS as data/alert_snapshots/

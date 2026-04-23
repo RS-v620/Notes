@@ -58,7 +58,7 @@
       ]
     },
     {
-      "name": "google/gemini-2.5-flash-lite",
+      "name": "google/gemini-2.5-flash",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -69,7 +69,27 @@
       ]
     },
     {
-      "name": "google/gemini-2.5-flash",
+      "name": "gpt-5.4",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "google/gemini-2.5-flash-lite",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -92,16 +112,6 @@
     },
     {
       "name": "gpt-5",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "core": true,
-      "capabilities": [
-        "vision"
-      ]
-    },
-    {
-      "name": "gpt-5-mini",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
@@ -187,8 +197,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -197,8 +207,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -263,6 +273,12 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "gemma4:latest",
+      "provider": "ollama",
+      "baseUrl": "http://localhost:11434",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
@@ -297,6 +313,14 @@
       "dimensions": 512
     },
     {
+      "name": "openai/text-embedding-3-small",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
       "name": "text-embedding-3-small",
       "provider": "openai",
       "enabled": true,
@@ -311,6 +335,23 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true
+    },
+    {
+      "name": "gemini-embedding-2-preview",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "Qwen/Qwen3-Embedding-0.6B",
+      "provider": "siliconflow",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "baseUrl": "https://api.siliconflow.com/v1"
     },
     {
       "name": "text-embedding-3-large",
@@ -370,10 +411,26 @@
     "webSearch",
     "pomodoro",
     "youtubeTranscription",
-    "writeToFile",
-    "replaceInFile"
+    "writeFile",
+    "editFile"
   ],
   "reasoningEffort": "low",
   "verbosity": "medium",
-  "enableInlineCitations": true
+  "enableInlineCitations": true,
+  "autoAddActiveContentToContext": true,
+  "enableMiyo": false,
+  "miyoServerUrl": "",
+  "selfHostSearchProvider": "firecrawl",
+  "memoryFolderName": "copilot/memory",
+  "enableRecentConversations": true,
+  "enableSavedMemory": true,
+  "maxRecentConversations": 30,
+  "autoCompactThreshold": 128000,
+  "quickCommandIncludeNoteContext": true,
+  "autoAddSelectionToContext": false,
+  "autoAcceptEdits": false,
+  "defaultSendShortcut": "enter",
+  "chatHistorySortStrategy": "recent",
+  "projectListSortStrategy": "recent",
+  "userSystemPromptsFolder": "copilot/system-prompts"
 }

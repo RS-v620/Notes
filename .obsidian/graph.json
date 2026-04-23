@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Oauth2",
@@ -13,18 +13,32 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "2026",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "dates",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.4497920997921,
-  "lineSizeMultiplier": 2.22401247401247,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 2.69211136890951,
+  "lineSizeMultiplier": 1.28236658932715,
   "collapse-forces": false,
-  "centerStrength": 0.541580041580042,
-  "repelStrength": 11.2474012474012,
-  "linkStrength": 0.570686070686071,
-  "linkDistance": 290,
-  "scale": 0.2261163935907812,
-  "close": true
+  "centerStrength": 0.0974477958236659,
+  "repelStrength": 2.59860788863109,
+  "linkStrength": 0.14385150812065,
+  "linkDistance": 133,
+  "scale": 0.029776644423477355,
+  "close": false
 }
